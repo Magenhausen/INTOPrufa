@@ -5,6 +5,7 @@
 #include <time.h>
 
 using namespace std;
+cout << "Magnus Harri Sigurdsson var her";
 
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
